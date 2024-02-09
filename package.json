@@ -1,0 +1,36 @@
+{
+    "name": "react-query-builder-with-cubejs",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [],
+    "main": "src/index.js",
+    "dependencies": {
+        "@chakra-ui/react": "^2.8.2",
+        "@cubejs-client/core": "^0.4.5",
+        "@cubejs-client/react": "^0.34.46",
+        "@emotion/react": "^11.11.3",
+        "@emotion/styled": "^11.11.0",
+        "antd": "^5.14.0",
+        "core-js": "^3.35.1",
+        "framer-motion": "^11.0.3",
+        "ramda": "^0.29.1",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-icons": "^5.0.1",
+        "react-router-dom": "^6.22.0",
+        "react-scripts": "^5.0.1",
+        "recharts": "^2.11.0"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "browserslist": [
+        ">0.2%",
+        "not dead",
+        "not ie <= 11",
+        "not op_mini all"
+    ]
+}
